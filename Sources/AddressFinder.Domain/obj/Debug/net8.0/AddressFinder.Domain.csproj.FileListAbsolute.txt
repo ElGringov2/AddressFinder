@@ -1,0 +1,11 @@
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Domain\bin\Debug\net8.0\AddressFinder.Domain.deps.json
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Domain\bin\Debug\net8.0\AddressFinder.Domain.dll
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Domain\bin\Debug\net8.0\AddressFinder.Domain.pdb
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Domain\obj\Debug\net8.0\AddressFinder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Domain\obj\Debug\net8.0\AddressFinder.Domain.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Domain\obj\Debug\net8.0\AddressFinder.Domain.AssemblyInfo.cs
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Domain\obj\Debug\net8.0\AddressFinder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Domain\obj\Debug\net8.0\AddressFinder.Domain.dll
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Domain\obj\Debug\net8.0\refint\AddressFinder.Domain.dll
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Domain\obj\Debug\net8.0\AddressFinder.Domain.pdb
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Domain\obj\Debug\net8.0\ref\AddressFinder.Domain.dll

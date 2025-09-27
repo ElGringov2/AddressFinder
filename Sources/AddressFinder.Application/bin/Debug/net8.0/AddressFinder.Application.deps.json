@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AddressFinder.Application/1.0.0": {
+        "dependencies": {
+          "AddressFinder.Client": "1.0.0",
+          "AddressFinder.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AddressFinder.Application.dll": {}
+        }
+      },
+      "AddressFinder.Client/1.0.0": {
+        "runtime": {
+          "AddressFinder.Client.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AddressFinder.Domain/1.0.0": {
+        "runtime": {
+          "AddressFinder.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddressFinder.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AddressFinder.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AddressFinder.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\bin\Debug\net8.0\AddressFinder.Application.deps.json
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\bin\Debug\net8.0\AddressFinder.Application.dll
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\bin\Debug\net8.0\AddressFinder.Application.pdb
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\bin\Debug\net8.0\AddressFinder.Client.dll
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\bin\Debug\net8.0\AddressFinder.Domain.dll
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\bin\Debug\net8.0\AddressFinder.Client.pdb
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\bin\Debug\net8.0\AddressFinder.Domain.pdb
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\AddressFinder.Application.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\AddressFinder.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\AddressFinder.Application.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\AddressFinder.Application.AssemblyInfo.cs
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\AddressFinder.Application.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\AddressF.40F10E95.Up2Date
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\AddressFinder.Application.dll
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\refint\AddressFinder.Application.dll
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\AddressFinder.Application.pdb
+C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\ref\AddressFinder.Application.dll

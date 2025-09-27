@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Application\\AddressFinder.Application.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Application\\AddressFinder.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Application\\AddressFinder.Application.csproj",
+        "projectName": "AddressFinder.Application",
+        "projectPath": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Application\\AddressFinder.Application.csproj",
+        "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Client\\AddressFinder.Client.csproj": {
+                "projectPath": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Client\\AddressFinder.Client.csproj"
+              },
+              "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Domain\\AddressFinder.Domain.csproj": {
+                "projectPath": "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Domain\\AddressFinder.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Client\\AddressFinder.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Client\\AddressFinder.Client.csproj",
+        "projectName": "AddressFinder.Client",
+        "projectPath": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Client\\AddressFinder.Client.csproj",
+        "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Domain\\AddressFinder.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Domain\\AddressFinder.Domain.csproj",
+        "projectName": "AddressFinder.Domain",
+        "projectPath": "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Domain\\AddressFinder.Domain.csproj",
+        "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

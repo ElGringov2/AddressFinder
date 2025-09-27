@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sources", "Sources", "{8FC9BDD2-F07A-4826-94F1-1F7705812CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressFinder.API", "Sources\AddressFinder.API\AddressFinder.API.csproj", "{5C261123-55AA-43B4-8783-841C6B1D4EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressFinder.Application", "Sources\AddressFinder.Application\AddressFinder.Application.csproj", "{47CF984C-0312-44F1-8E7E-D85DF984FFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressFinder.Client", "Sources\AddressFinder.Client\AddressFinder.Client.csproj", "{FBE804AD-DFC4-4899-A6A1-28234AA5A334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressFinder.Domain", "Sources\AddressFinder.Domain\AddressFinder.Domain.csproj", "{4F3A795D-5DEA-436E-B4CD-5E2657383FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressFinder.Infrastructure", "Sources\AddressFinder.Infrastructure\AddressFinder.Infrastructure.csproj", "{26FA6247-E576-4F1B-8CCB-10840B16DA4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C261123-55AA-43B4-8783-841C6B1D4EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C261123-55AA-43B4-8783-841C6B1D4EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C261123-55AA-43B4-8783-841C6B1D4EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C261123-55AA-43B4-8783-841C6B1D4EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47CF984C-0312-44F1-8E7E-D85DF984FFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CF984C-0312-44F1-8E7E-D85DF984FFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CF984C-0312-44F1-8E7E-D85DF984FFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CF984C-0312-44F1-8E7E-D85DF984FFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE804AD-DFC4-4899-A6A1-28234AA5A334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE804AD-DFC4-4899-A6A1-28234AA5A334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE804AD-DFC4-4899-A6A1-28234AA5A334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE804AD-DFC4-4899-A6A1-28234AA5A334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3A795D-5DEA-436E-B4CD-5E2657383FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3A795D-5DEA-436E-B4CD-5E2657383FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3A795D-5DEA-436E-B4CD-5E2657383FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3A795D-5DEA-436E-B4CD-5E2657383FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26FA6247-E576-4F1B-8CCB-10840B16DA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26FA6247-E576-4F1B-8CCB-10840B16DA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26FA6247-E576-4F1B-8CCB-10840B16DA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26FA6247-E576-4F1B-8CCB-10840B16DA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5C261123-55AA-43B4-8783-841C6B1D4EBF} = {8FC9BDD2-F07A-4826-94F1-1F7705812CFC}
+		{47CF984C-0312-44F1-8E7E-D85DF984FFFF} = {8FC9BDD2-F07A-4826-94F1-1F7705812CFC}
+		{FBE804AD-DFC4-4899-A6A1-28234AA5A334} = {8FC9BDD2-F07A-4826-94F1-1F7705812CFC}
+		{4F3A795D-5DEA-436E-B4CD-5E2657383FA7} = {8FC9BDD2-F07A-4826-94F1-1F7705812CFC}
+		{26FA6247-E576-4F1B-8CCB-10840B16DA4D} = {8FC9BDD2-F07A-4826-94F1-1F7705812CFC}
+	EndGlobalSection
+EndGlobal
