@@ -9,3 +9,4 @@ C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Client\obj\Debug
 C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Client\obj\Debug\net8.0\refint\AddressFinder.Client.dll
 C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Client\obj\Debug\net8.0\AddressFinder.Client.pdb
 C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Client\obj\Debug\net8.0\ref\AddressFinder.Client.dll
+c:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Client\obj\Debug\net8.0\AddressFinder.Client.sourcelink.json

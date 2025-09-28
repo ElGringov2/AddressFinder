@@ -1,6 +1,7 @@
 using System;
 using System.IO.Compression;
 using System.Text;
+using AddressFinder.Domain.Extensions;
 using AddressFinder.Domain;
 using Microsoft.Extensions.Logging;
 
@@ -64,7 +65,12 @@ internal class FrenchApiAdresseService
                     Street = fields[4],
                     ZipCode = fields[5],
                     City = fields[7],
-                    Country = Country
+                    Country = Country,
+
+                    // Normalisés pour l’index/les recherches
+                    StreetNorm  = TextNormalizer.NormalizeForSearch(fields[4]),
+                    CityNorm    = TextNormalizer.NormalizeForSearch(fields[7]),
+                    CountryNorm = TextNormalizer.NormalizeForSearch(Country)
                 });
             }
         }

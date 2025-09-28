@@ -19,3 +19,4 @@ C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Infrastructure\o
 C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Infrastructure\obj\Debug\net8.0\ref\AddressFinder.Infrastructure.dll
 C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Infrastructure\bin\Debug\net8.0\AddressFinder.Infrastructure.runtimeconfig.json
 C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Infrastructure\obj\Debug\net8.0\AddressFinder.Infrastructure.genruntimeconfig.cache
+c:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Infrastructure\obj\Debug\net8.0\AddressFinder.Infrastructure.sourcelink.json

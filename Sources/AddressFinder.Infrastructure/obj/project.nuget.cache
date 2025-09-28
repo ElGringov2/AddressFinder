@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tw6UET7M9lY=",
+  "dgSpecHash": "Akq7U9PI2mY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj",
+  "projectFilePath": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drago\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\linqkit.core\\1.2.8\\linqkit.core.1.2.8.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",

@@ -28,9 +28,15 @@ namespace AddressFinder.Infrastructure.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("CityNorm")
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("Country")
                         .IsRequired()
                         .HasMaxLength(100)
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("CountryNorm")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Number")
@@ -42,10 +48,13 @@ namespace AddressFinder.Infrastructure.Migrations
                         .HasMaxLength(400)
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("StreetNorm")
+                        .HasColumnType("TEXT");
+
                     b.Property<DateTime>("UpdatedAt")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("TEXT")
-                        .HasDefaultValue(new DateTime(2025, 9, 27, 23, 24, 14, 3, DateTimeKind.Local).AddTicks(8836));
+                        .HasDefaultValue(new DateTime(2025, 9, 28, 12, 13, 49, 846, DateTimeKind.Local).AddTicks(953));
 
                     b.Property<string>("ZipCode")
                         .IsRequired()

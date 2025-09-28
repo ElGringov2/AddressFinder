@@ -9,6 +9,7 @@
       "AddressFinder.Infrastructure/1.0.0": {
         "dependencies": {
           "AddressFinder.Application": "1.0.0",
+          "LinqKit.Core": "1.2.8",
           "Microsoft.EntityFrameworkCore.Design": "8.0.20",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.20"
         },
@@ -21,6 +22,14 @@
           "lib/net6.0/Humanizer.dll": {
             "assemblyVersion": "2.14.0.0",
             "fileVersion": "2.14.1.48190"
+          }
+        }
+      },
+      "LinqKit.Core/1.2.8": {
+        "runtime": {
+          "lib/netstandard2.1/LinqKit.Core.dll": {
+            "assemblyVersion": "1.2.8.0",
+            "fileVersion": "1.2.8.0"
           }
         }
       },
@@ -700,6 +709,13 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "LinqKit.Core/1.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F/ZGutPdat2u+nevwACsp09fT1z+fazu0UlZGVeAPSaGCdf/PuOv4hAyJ+7zCmqpADQLtmw9jEfJVPmgQy/8Cg==",
+      "path": "linqkit.core/1.2.8",
+      "hashPath": "linqkit.core.1.2.8.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
       "type": "package",

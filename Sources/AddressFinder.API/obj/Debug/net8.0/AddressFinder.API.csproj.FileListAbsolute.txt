@@ -137,3 +137,5 @@ c:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.API\obj\Debug\ne
 c:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.API\obj\Debug\net8.0\AddressFinder.API.pdb
 C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.API\obj\Debug\net8.0\AddressFinder.API.genruntimeconfig.cache
 C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.API\obj\Debug\net8.0\ref\AddressFinder.API.dll
+c:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.API\bin\Debug\net8.0\LinqKit.Core.dll
+c:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.API\obj\Debug\net8.0\AddressFinder.API.sourcelink.json

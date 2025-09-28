@@ -15,3 +15,4 @@ C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\
 C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\refint\AddressFinder.Application.dll
 C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\AddressFinder.Application.pdb
 C:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\ref\AddressFinder.Application.dll
+c:\Users\drago\source\repos\AddressFinder\Sources\AddressFinder.Application\obj\Debug\net8.0\AddressFinder.Application.sourcelink.json

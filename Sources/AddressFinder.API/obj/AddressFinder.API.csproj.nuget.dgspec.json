@@ -35,8 +35,8 @@
               "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Application\\AddressFinder.Application.csproj": {
                 "projectPath": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Application\\AddressFinder.Application.csproj"
               },
-              "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj"
+              "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj"
               }
             }
           }
@@ -284,14 +284,14 @@
         }
       }
     },
-    "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj": {
+    "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj",
         "projectName": "AddressFinder.Infrastructure",
-        "projectPath": "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj",
+        "projectPath": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -334,6 +334,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "LinqKit.Core": {
+              "target": "Package",
+              "version": "[1.2.8, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[8.0.20, )"

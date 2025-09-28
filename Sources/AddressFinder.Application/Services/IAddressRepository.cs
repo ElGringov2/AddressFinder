@@ -9,5 +9,5 @@ public interface IAddressRepository
     Task DeleteAllAsync(CancellationToken cancellationToken = default);
     Task DeleteAllAsync(string? country, CancellationToken cancellationToken = default);
 
-    Task<IEnumerable<Address>> SearchAsync(string query, CancellationToken cancellationToken = default);
+    Task<IEnumerable<Address>> SearchAsync(string searchTerms, CancellationToken cancellationToken = default);
 }

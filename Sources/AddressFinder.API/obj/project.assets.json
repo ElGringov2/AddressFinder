@@ -15,6 +15,19 @@
           }
         }
       },
+      "LinqKit.Core/1.2.8": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/LinqKit.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/LinqKit.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
         "type": "package",
         "compile": {
@@ -1013,6 +1026,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "AddressFinder.Application": "1.0.0",
+          "LinqKit.Core": "1.2.8",
           "Microsoft.EntityFrameworkCore.Design": "8.0.20",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.20"
         },
@@ -1042,6 +1056,36 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "LinqKit.Core/1.2.8": {
+      "sha512": "F/ZGutPdat2u+nevwACsp09fT1z+fazu0UlZGVeAPSaGCdf/PuOv4hAyJ+7zCmqpADQLtmw9jEfJVPmgQy/8Cg==",
+      "type": "package",
+      "path": "linqkit.core/1.2.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/LinqKit.Core.dll",
+        "lib/net35/LinqKit.Core.xml",
+        "lib/net40/LinqKit.Core.dll",
+        "lib/net40/LinqKit.Core.xml",
+        "lib/net45/LinqKit.Core.dll",
+        "lib/net45/LinqKit.Core.xml",
+        "lib/netstandard1.3/LinqKit.Core.dll",
+        "lib/netstandard1.3/LinqKit.Core.xml",
+        "lib/netstandard2.0/LinqKit.Core.dll",
+        "lib/netstandard2.0/LinqKit.Core.xml",
+        "lib/netstandard2.1/LinqKit.Core.dll",
+        "lib/netstandard2.1/LinqKit.Core.xml",
+        "lib/portable40-net40+sl5+win8+wp8+wpa81/LinqKit.Core.dll",
+        "lib/portable40-net40+sl5+win8+wp8+wpa81/LinqKit.Core.xml",
+        "lib/portable45-net45+win8+wp8+wpa81/LinqKit.Core.dll",
+        "lib/portable45-net45+win8+wp8+wpa81/LinqKit.Core.xml",
+        "lib/uap10.0.10240/LinqKit.Core.dll",
+        "lib/uap10.0.10240/LinqKit.Core.pri",
+        "lib/uap10.0.10240/LinqKit.Core.xml",
+        "linqkit.core.1.2.8.nupkg.sha512",
+        "linqkit.core.nuspec"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
@@ -2487,8 +2531,8 @@
             "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Application\\AddressFinder.Application.csproj": {
               "projectPath": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Application\\AddressFinder.Application.csproj"
             },
-            "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj"
+            "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj": {
+              "projectPath": "c:\\Users\\drago\\source\\repos\\AddressFinder\\Sources\\AddressFinder.Infrastructure\\AddressFinder.Infrastructure.csproj"
             }
           }
         }

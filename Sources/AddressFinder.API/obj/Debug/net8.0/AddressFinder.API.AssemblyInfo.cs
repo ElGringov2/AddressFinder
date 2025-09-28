@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddressFinder.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7008b1cdd55372054bcac70d8e5b4ea81ada6006")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddressFinder.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddressFinder.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
